@@ -1,0 +1,22 @@
+{
+    "name": "Immerse.Core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d6cbd88b8347141b88b5e520a31122ac",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:a9420e37d7990b54abdef6688edbe313",
+        "GUID:92703082f92b41ba80f0d6912de66115",
+        "GUID:840bade04a25240f08cc87de71d8bbf7",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

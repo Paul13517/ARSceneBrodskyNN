@@ -1,0 +1,22 @@
+{
+    "name": "Immerse.Brodsky",
+    "rootNamespace": "",
+    "references": [
+        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
+        "GUID:a9420e37d7990b54abdef6688edbe313",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:92703082f92b41ba80f0d6912de66115",
+        "GUID:831409e8f9d13b5479a3baef9822ad34",
+        "GUID:d6cbd88b8347141b88b5e520a31122ac",
+        "GUID:a9dc56d818ec1431498c150ce1a1c425"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

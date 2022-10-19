@@ -1,0 +1,18 @@
+{
+    "name": "Immerse.Brodsky.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7a89bce69118d4601b28a86587e96ab4"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

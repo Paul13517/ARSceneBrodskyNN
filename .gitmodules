@@ -1,0 +1,3 @@
+[submodule "Assets/ImmerseCore"]
+	path = Assets/ImmerseCore
+	url = https://bitbucket.org/immerse-ar/core.git
